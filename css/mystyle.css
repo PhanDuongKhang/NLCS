@@ -1,0 +1,123 @@
+.text_center {
+    text-align: center;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+#header {
+    background-color: rgb(69, 200, 156);
+    position: relative;
+    height: 190px;
+}
+
+#dheader {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#dheader>div {
+    padding-top: 10px;
+}
+
+#spa {
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+
+}
+
+span>h3 {
+    color: yellow;
+}
+
+span>h5 {
+    color: white;
+}
+
+#ima {
+    width: 70px;
+    height: 70px;
+}
+
+
+.icon {
+    color: white;
+    padding: 5px;
+
+}
+
+#frm>input {
+    border-radius: 10px;
+}
+
+ul.menu>li {
+    position: relative;
+    padding-top: 20px;
+    list-style-type: none;
+    float: left;
+    font-size: 15px;
+
+}
+
+ul.menu>li>a {
+    text-decoration: none;
+    color: blue;
+    padding: 10px;
+}
+
+ul.menu>li>a:hover {
+    background-color: rgb(0, 155, 179);
+    color: white;
+}
+
+#footer {
+    background-color: rgb(69, 200, 156);
+    position: relative;
+    height: 150px;
+
+}
+
+#dfooter {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+
+.dima {
+    border: 1px solid #ed4190;
+    text-align: center;
+    width: 24%;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.dima img {
+    width: 50%;
+    height: 180px;
+}
+
+
+table {
+    border-radius: 50px;
+}
+
+.div_border {
+    background-color: #ed4190;
+}
+
+ul.navbar-nav li {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+div.container-fluid a {
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
